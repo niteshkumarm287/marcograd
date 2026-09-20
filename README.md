@@ -69,3 +69,7 @@ draw_dot(d).render('graph', view=True)
 *   Implement the `backward()` method in the `value` class to perform backpropagation and calculate gradients automatically.
 *   Add support for more activation functions (e.g., `tanh`, `relu`).
 *   Build a small neural network library on top of Macrograd.
+
+## Development and review
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for local checks, configuration handling, and the review workflow.
